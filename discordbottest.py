@@ -201,4 +201,4 @@ async def how(ctx):
 # async def tarot(ctx):
 #     await ctx.channel.send(tarot_reader())
 
-bot.run('MTAxMzQ0NjAyMTEzNDY4ODM0Nw.GKawcR.Dp40VgmKeutRTQOEpUcr72xZe_nBkzjDOI0JhU')
+bot.run('TOKEN')
