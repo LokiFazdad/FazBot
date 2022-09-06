@@ -19,3 +19,12 @@ $help
 $how
 $joke
 $serverid
+
+existing message response triggers:
+hello
+goodbye
+gg
+i love you fazbot
+i love fazbot
+fazbot i love you
+wtf
